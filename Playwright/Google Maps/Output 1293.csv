@@ -1,0 +1,501 @@
+Location,Hour,Min,Distance
+GOSTWYCK,5 hr, 44 min,477 km
+KINGSTOWN,6 hr, 7 min,510 km
+MIHI,6 hr, 7 min,510 km
+ROCKY RIVER,5 hr, 40 min,473 km
+SALISBURY PLAINS,5 hr, 40 min,473 km
+TORRYBURN,6 hr, 6 min,510 km
+URALLA,5 hr, 35 min,467 km
+YARROWYCK,5 hr, 54 min,494 km
+BUNDARRA,6 hr, 32 min,551 km
+CAMERONS CREEK,6 hr, 29 min,535 km
+AUBURN VALE,7 hr, 1 min,592 km
+BRODIES PLAINS,7 hr,,592 km
+BUKKULLA,7 hr, 18 min,619 km
+CHERRY TREE HILL,7 hr, 17 min,617 km
+COPETON,7 hr, 17 min,586 km
+ELSMORE,6 hr, 57 min,595 km
+GILGAI,7 hr, 4 min,576 km
+GRAMAN,6 hr, 46 min,627 km
+GUM FLAT,7 hr, 24 min,600 km
+HOWELL,6 hr, 45 min,573 km
+INVERELL,6 hr, 55 min,586 km
+KINGS PLAINS,7 hr, 37 min,630 km
+LITTLE PLAIN,7 hr, 9 min,604 km
+LONG PLAIN,7 hr, 1 min,595 km
+MOUNT RUSSELL,7 hr, 18 min,613 km
+NEWSTEAD,7 hr, 15 min,612 km
+NULLAMANNA,7 hr, 15 min,603 km
+PARADISE,7 hr, 5 min,585 km
+ROB ROY,7 hr, 5 min,585 km
+SAPPHIRE,7 hr, 14 min,611 km
+SPRING MOUNTAIN,7 hr, 19 min,583 km
+STANBOROUGH,7 hr, 19 min,564 km
+SWANBROOK,7 hr, 5 min,599 km
+WALLANGRA,7 hr, 41 min,653 km
+WANDERA,7 hr, 5 min,599 km
+WOODSTOCK,7 hr, 18 min,612 km
+ASHFORD,7 hr, 34 min,642 km
+ATHOLWOOD,8 hr, 2 min,677 km
+BONSHAW,8 hr, 2 min,677 km
+LIMESTONE,7 hr, 47 min,657 km
+PINDAROI,7 hr, 26 min,623 km
+BACKWATER,6 hr, 46 min,560 km
+BALD BLAIR,6 hr, 30 min,541 km
+BALDERSLEIGH,6 hr, 43 min,553 km
+BASSENDEAN,6 hr, 47 min,563 km
+BEN LOMOND,6 hr, 35 min,549 km
+BLACK MOUNTAIN,6 hr, 11 min,515 km
+BRIARBROOK,6 hr, 47 min,560 km
+BROCKLEY,6 hr, 32 min,545 km
+BRUSHY CREEK,6 hr, 41 min,555 km
+FALCONER,6 hr, 25 min,533 km
+GEORGES CREEK,6 hr, 34 min,549 km
+GLEN NEVIS,7 hr, 53 min,613 km
+GLENCOE,6 hr, 44 min,565 km
+GREEN HILLS,6 hr, 34 min,545 km
+GUYRA,6 hr, 20 min,527 km
+LLANGOTHLIN,6 hr, 26 min,537 km
+MAYBOLE,6 hr, 52 min,567 km
+MOUNT MITCHELL,6 hr, 52 min,567 km
+NEW VALLEY,7 hr,,590 km
+OBAN,6 hr, 38 min,553 km
+SOUTH GUYRA,6 hr, 17 min,524 km
+TENTERDEN,6 hr, 40 min,556 km
+THE BASIN,6 hr, 38 min,548 km
+TUBBAMURRA,6 hr, 38 min,548 km
+WANDSWORTH,6 hr, 41 min,561 km
+OLD MILL,6 hr, 51 min,580 km
+STANNIFER,6 hr, 54 min,584 km
+TINGHA,6 hr, 54 min,574 km
+BALD NOB,7 hr, 17 min,612 km
+DIEHARD,7 hr, 43 min,635 km
+DUNDEE,7 hr, 19 min,615 km
+FURRACABAD,7 hr, 14 min,600 km
+GIBRALTAR RANGE,7 hr, 44 min,655 km
+GLEN ELGIN,7 hr, 35 min,632 km
+GLEN INNES,6 hr, 59 min,586 km
+KINGSGATE,7 hr, 52 min,632 km
+KOOKABOOKRA,7 hr, 3 min,576 km
+LAMBS VALLEY,7 hr, 4 min,592 km
+MATHESON,7 hr, 14 min,605 km
+MOGGS SWAMP,7 hr, 23 min,593 km
+MOOGEM,7 hr, 50 min,653 km
+MORVEN,8 hr, 14 min,660 km
+NEWTON BOYD,8 hr, 36 min,673 km
+PINKETT,7 hr, 13 min,590 km
+RANGERS VALLEY,7 hr, 19 min,613 km
+RED RANGE,7 hr, 13 min,604 km
+REDDESTONE,7 hr, 15 min,607 km
+SHANNON VALE,7 hr, 15 min,603 km
+SWAN VALE,7 hr, 21 min,616 km
+WELLINGROVE,7 hr, 29 min,627 km
+YARROWFORD,7 hr, 6 min,595 km
+CAPOOMPETA,7 hr, 59 min,652 km
+DEEPWATER,7 hr, 26 min,626 km
+EMMAVILLE,7 hr, 31 min,629 km
+ROCKY CREEK,7 hr, 55 min,656 km
+STANNUM,7 hr, 39 min,642 km
+TORRINGTON,7 hr, 50 min,655 km
+WELLINGTON VALE,7 hr, 33 min,637 km
+YELLOW DAM,7 hr, 44 min,645 km
+BACK CREEK,8 hr, 44 min,720 km
+BOLIVIA,7 hr, 42 min,647 km
+BOONOO BOONOO,8 hr, 23 min,688 km
+BOOROOK,8 hr, 52 min,724 km
+CARROLLS CREEK,8 hr, 36 min,702 km
+CULLENDORE,9 hr,,740 km
+LISTON,8 hr, 47 min,723 km
+MOLE RIVER,8 hr, 47 min,718 km
+RIVERTREE,8 hr, 33 min,761 km
+ROCKY RIVER,9 hr, 22 min,728 km
+SANDY FLAT,7 hr, 48 min,657 km
+SANDY HILL,8 hr, 30 min,710 km
+SILENT GROVE,8 hr, 30 min,676 km
+TARBAN,8 hr, 25 min,698 km
+TENTERFIELD,8 hr, 25 min,677 km
+TIMBARRA,8 hr, 36 min,707 km
+WILLSONS DOWNFALL,8 hr, 43 min,728 km
+WYLIE CREEK,9 hr,,751 km
+GOOLHI,5 hr, 41 min,511 km
+MULLALEY,5 hr, 30 min,498 km
+NAPIER LANE,5 hr, 44 min,517 km
+NOMBI,5 hr, 41 min,511 km
+BLUE VALE,5 hr, 40 min,470 km
+EMERALD HILL,5 hr, 35 min,463 km
+GHOOLENDAADI,5 hr, 39 min,471 km
+GUNNEDAH,5 hr, 12 min,435 km
+KELVIN,5 hr, 36 min,468 km
+MARYS MOUNT,5 hr, 30 min,457 km
+MILROY,5 hr, 30 min,456 km
+ORANGE GROVE,5 hr, 32 min,460 km
+RANGARI,5 hr, 46 min,483 km
+BREEZA,4 hr, 45 min,393 km
+CURLEWIS,5 hr, 2 min,419 km
+PREMER,5 hr, 7 min,463 km
+TAMBAR SPRINGS,5 hr, 11 min,468 km
+BOGGABRI,5 hr, 40 min,474 km
+MAULES CREEK,6 hr, 13 min,521 km
+WEAN,6 hr, 13 min,483 km
+WILLALA,5 hr, 58 min,497 km
+BURREN JUNCTION,7 hr, 15 min,615 km
+DRILDOOL,7 hr, 11 min,606 km
+NOWLEY,7 hr, 22 min,623 km
+BULYEROI,7 hr, 22 min,623 km
+ROWENA,7 hr, 37 min,642 km
+BOOLCARROLL,6 hr, 52 min,578 km
+CUTTABRI,,,
+MERAH NORTH,6 hr, 53 min,581 km
+PILLIGA,6 hr, 53 min,581 km
+SPRING PLAINS,7 hr, 3 min,597 km
+THE PILLIGA,7 hr, 3 min,597 km
+WEE WAA,6 hr, 42 min,564 km
+YARRIE LAKE,6 hr, 42 min,561 km
+BAAN BAA,5 hr, 54 min,493 km
+BACK CREEK,5 hr, 54 min,493 km
+BERRIGAL,7 hr, 21 min,623 km
+BOHENA CREEK,7 hr, 21 min,623 km
+BULLAWA CREEK,6 hr, 22 min,535 km
+COURADDA,6 hr, 52 min,573 km
+EDGEROI,6 hr, 43 min,560 km
+EULAH CREEK,6 hr, 21 min,532 km
+HARPARARY,6 hr, 21 min,532 km
+JACKS CREEK,6 hr, 14 min,524 km
+KAPUTAR,7 hr, 3 min,563 km
+NARRABRI,6 hr, 19 min,541 km
+NARRABRI WEST,6 hr, 19 min,529 km
+ROCKY CREEK,6 hr, 16 min,562 km
+TARRIARO,6 hr, 49 min,509 km
+TURRAWAN,6 hr, 3 min,510 km
+BINNAWAY,5 hr, 12 min,452 km
+ROPERS ROAD,5 hr, 12 min,452 km
+WEETALIBA,5 hr, 12 min,452 km
+BARADINE,,,
+BARWON,,,
+GOORIANAWA,,,
+KENEBRI,,,
+BELLATA,6 hr, 55 min,579 km
+MILLIE,6 hr, 55 min,579 km
+GURLEY,7 hr, 16 min,609 km
+BINIGUY,7 hr, 44 min,643 km
+PALLAMALLAWA,7 hr, 37 min,635 km
+ASHLEY,7 hr, 37 min,650 km
+BULLARAH,7 hr, 57 min,657 km
+CROOBLE,7 hr, 57 min,683 km
+MALLOWA,8 hr, 18 min,711 km
+MOREE,7 hr, 30 min,632 km
+TERRY HIE HIE,7 hr, 17 min,598 km
+TULLOONA,8 hr, 21 min,710 km
+GRAVESEND,7 hr, 20 min,609 km
+COOLATAI,7 hr, 20 min,609 km
+WARIALDA,7 hr, 42 min,640 km
+WARIALDA RAIL,7 hr, 10 min,597 km
+DELUNGRA,7 hr, 10 min,597 km
+GRAGIN,7 hr, 30 min,621 km
+MYALL CREEK,7 hr, 4 min,587 km
+BANGHEET,7 hr, 1 min,577 km
+BINGARA,6 hr, 47 min,562 km
+DINOGA,6 hr, 47 min,562 km
+ELCOMBE,7 hr, 7 min,579 km
+GINEROI,7 hr, 7 min,579 km
+KEERA,6 hr, 59 min,579 km
+PALLAL,6 hr, 52 min,568 km
+UPPER BINGARA,6 hr, 41 min,542 km
+BOOMI,,,
+GARAH,8 hr, 3 min,683 km
+MUNGINDI,8 hr, 50 min,754 km
+WEEMELAH,8 hr, 50 min,754 km
+NORTH STAR,8 hr, 19 min,695 km
+BOGGABILLA,9 hr, 7 min,773 km
+BOONAL,9 hr, 7 min,726 km
+TWIN RIVERS,8 hr, 35 min,726 km
+YETMAN,8 hr, 11 min,686 km
+CROPPA CREEK,8 hr, 3 min,670 km
+MONKERAI,3 hr, 12 min,250 km
+NOOROO,3 hr, 12 min,250 km
+STROUD ROAD,2 hr, 49 min,230 km
+UPPER KARUAH RIVER,2 hr, 49 min,230 km
+WEISMANTELS,2 hr, 49 min,230 km
+ALISON,2 hr, 49 min,230 km
+BANDON GROVE,2 hr, 49 min,230 km
+BENDOLBA,2 hr, 51 min,227 km
+BROOKFIELD,2 hr, 34 min,206 km
+CAMBRA,2 hr, 46 min,214 km
+CHICHESTER,3 hr, 24 min,256 km
+DUNGOG,3 hr, 24 min,221 km
+FLAT TOPS,2 hr, 48 min,221 km
+FOSTERTON,2 hr, 58 min,231 km
+HANLEYS CREEK,2 hr, 58 min,221 km
+HILLDALE,2 hr, 49 min,221 km
+MAIN CREEK,3 hr, 3 min,238 km
+MARSHDALE,3 hr, 3 min,238 km
+MARTINS CREEK,2 hr, 25 min,194 km
+MUNNI,2 hr, 25 min,233 km
+SALISBURY,2 hr, 53 min,233 km
+STROUD HILL,2 hr, 50 min,227 km
+SUGARLOAF,2 hr, 51 min,225 km
+TABBIL CREEK,2 hr, 44 min,219 km
+UNDERBANK,3 hr, 6 min,242 km
+WALLARINGA,3 hr, 6 min,242 km
+WALLAROBBA,2 hr, 32 min,206 km
+WIRRAGULLA,2 hr, 32 min,206 km
+FISHERS HILL,2 hr, 36 min,205 km
+PATERSON,2 hr, 35 min,205 km
+TOCAL,2 hr, 16 min,183 km
+TORRYBURN,2 hr, 32 min,204 km
+VACY,2 hr, 26 min,196 km
+WEBBERS CREEK,2 hr, 33 min,199 km
+BACK CREEK,2 hr, 33 min,199 km
+BAKERS CREEK,2 hr, 33 min,199 km
+BARRINGTON,3 hr, 26 min,286 km
+BARRINGTON TOPS,3 hr, 26 min,286 km
+BAXTERS RIDGE,3 hr, 26 min,286 km
+BELBORA,3 hr, 35 min,314 km
+BERRICO,3 hr, 35 min,314 km
+BINDERA,3 hr, 37 min,279 km
+BOWMAN,3 hr, 42 min,301 km
+BOWMAN FARM,3 hr, 31 min,291 km
+BRETTI,3 hr, 49 min,314 km
+BULLIAC,3 hr, 38 min,290 km
+BUNDOOK,3 hr, 50 min,298 km
+CALLAGHANS CREEK,4 hr, 7 min,309 km
+COBARK,3 hr, 53 min,315 km
+CONEAC,,,
+COPELAND,3 hr, 33 min,294 km
+CRAVEN,3 hr, 33 min,294 km
+CRAVEN PLATEAU,4 hr, 1 min,314 km
+CURRICABARK,4 hr, 1 min,314 km
+DEWITT,3 hr, 59 min,315 km
+FAULKLAND,3 hr, 59 min,315 km
+FORBESDALE,3 hr, 15 min,265 km
+GANGAT,3 hr, 15 min,265 km
+GIRO,4 hr, 29 min,342 km
+GLEN WARD,4 hr, 24 min,336 km
+GLOUCESTER,3 hr, 18 min,268 km
+GLOUCESTER TOPS,4 hr, 16 min,306 km
+INVERGORDON,4 hr, 16 min,290 km
+KIA ORA,3 hr, 30 min,290 km
+MARES RUN,4 hr, 9 min,338 km
+MERNOT,4 hr, 9 min,338 km
+MOGRANI,3 hr, 29 min,278 km
+MOPPY,3 hr, 29 min,307 km
+RAWDON VALE,4 hr, 9 min,292 km
+ROOKHURST,3 hr, 35 min,297 km
+STRATFORD,3 hr, 9 min,257 km
+TERREEL,3 hr, 9 min,262 km
+TIBBUC,3 hr, 44 min,307 km
+TITAATEE CREEK,3 hr, 43 min,293 km
+TUGRABAKH,3 hr, 27 min,279 km
+WALLANBAH,3 hr, 37 min,290 km
+WARDS RIVER,3 hr,,245 km
+WAUKIVORY,3 hr,,245 km
+WOKO,3 hr,,310 km
+BOMBAH POINT,3 hr,,254 km
+BOOLAMBAYTE,2 hr, 57 min,254 km
+BULAHDELAH,2 hr, 57 min,254 km
+BUNGWAHL,3 hr, 13 min,273 km
+COOLONGOLOOK,3 hr, 13 min,273 km
+CRAWFORD RIVER,3 hr, 7 min,273 km
+MARKWELL,3 hr, 1 min,257 km
+MAYERS FLAT,3 hr, 5 min,263 km
+MUNGO BRUSH,3 hr, 5 min,263 km
+MYALL LAKE,3 hr, 5 min,272 km
+NERONG,2 hr, 45 min,236 km
+SEAL ROCKS,2 hr, 45 min,236 km
+TOPI TOPI,2 hr, 45 min,268 km
+UPPER MYALL,3 hr, 14 min,264 km
+VIOLET HILL,3 hr, 9 min,264 km
+WANG WAUK,3 hr, 24 min,290 km
+WARRANULLA,3 hr, 24 min,290 km
+WILLINA,3 hr, 13 min,281 km
+WOOTTON,3 hr, 6 min,264 km
+YAGON,3 hr, 25 min,281 km
+CAFFREYS FLAT,4 hr, 14 min,360 km
+CELLS RIVER,4 hr, 14 min,360 km
+COOPLACURRIPA,4 hr, 51 min,390 km
+CUNDLE FLAT,4 hr, 15 min,315 km
+KNORRIT FLAT,4 hr, 5 min,351 km
+MOUNT GEORGE,4 hr, 5 min,351 km
+NUMBER ONE,4 hr, 19 min,366 km
+TIRI,4 hr, 3 min,308 km
+ALLWORTH,2 hr, 32 min,208 km
+BOORAL,2 hr, 35 min,214 km
+GIRVAN,2 hr, 35 min,214 km
+STROUD,2 hr, 41 min,221 km
+THE BRANCH,2 hr, 41 min,221 km
+WASHPOOL,2 hr, 48 min,229 km
+COOPERNOOK,2 hr, 48 min,229 km
+LANGLEY VALE,2 hr, 48 min,339 km
+MOTO,3 hr, 55 min,338 km
+CROWDY HEAD,4 hr, 1 min,350 km
+HARRINGTON,3 hr, 53 min,343 km
+BLUEYS BEACH,3 hr, 26 min,287 km
+BOOMERANG BEACH,3 hr, 26 min,287 km
+BOOTI BOOTI,3 hr, 28 min,291 km
+CHARLOTTE BAY,3 hr, 28 min,291 km
+COOMBA BAY,3 hr, 35 min,299 km
+COOMBA PARK,3 hr, 40 min,304 km
+DARAWANK,3 hr, 40 min,300 km
+ELIZABETH BEACH,3 hr, 25 min,288 km
+FORSTER,3 hr, 38 min,314 km
+FORSTER SHOPPING VILLAGE,3 hr, 41 min,305 km
+GREEN POINT,3 hr, 41 min,300 km
+PACIFIC PALMS,3 hr, 36 min,300 km
+SANDBAR,3 hr, 26 min,285 km
+SHALLOW BAY,3 hr, 26 min,285 km
+SMITHS LAKE,3 hr, 22 min,282 km
+TARBUCK BAY,3 hr, 22 min,282 km
+TIONA,3 hr, 29 min,292 km
+TUNCURRY,3 hr, 29 min,292 km
+WALLIS LAKE,3 hr, 40 min,302 km
+WHOOTA,3 hr, 40 min,302 km
+BOBIN,4 hr, 10 min,354 km
+BOORGANNA,4 hr, 10 min,361 km
+BUCCA WAUKA,3 hr, 39 min,311 km
+BULGA FOREST,3 hr, 39 min,311 km
+BUNYAH,3 hr, 18 min,287 km
+BURRELL CREEK,3 hr, 39 min,318 km
+CAPARRA,3 hr, 39 min,318 km
+CEDAR PARTY,3 hr, 52 min,332 km
+COMBOYNE,4 hr, 33 min,376 km
+DINGO FOREST,4 hr, 33 min,370 km
+DOLLYS FLAT,3 hr, 51 min,330 km
+DYERS CROSSING,3 hr, 21 min,294 km
+ELANDS,3 hr, 21 min,294 km
+FIREFLY,3 hr, 27 min,302 km
+INNES VIEW,3 hr, 27 min,302 km
+KARAAK FLAT,3 hr, 47 min,327 km
+KILLABAKH,3 hr, 47 min,327 km
+KILLAWARRA,3 hr, 44 min,325 km
+KIMBRIKI,3 hr, 57 min,323 km
+KIPPAXS,4 hr, 24 min,363 km
+KRAMBACH,3 hr, 26 min,302 km
+KUNDIBAKH,3 hr, 26 min,302 km
+MARLEE,4 hr, 1 min,344 km
+MOORAL CREEK,4 hr, 1 min,344 km
+STRATHCEDAR,4 hr, 3 min,342 km
+THE BIGHT,4 hr, 3 min,342 km
+TIPPERARY,3 hr, 40 min,312 km
+WHERROL FLAT,4 hr, 5 min,347 km
+WINGHAM,3 hr, 47 min,328 km
+YARRATT FOREST,3 hr, 59 min,345 km
+BLACK HEAD,3 hr, 59 min,345 km
+BOHNOCK,3 hr, 39 min,323 km
+BOOTAWA,3 hr, 44 min,328 km
+BRIMBIN,3 hr, 43 min,327 km
+CHATHAM,3 hr, 40 min,319 km
+CROKI,3 hr, 40 min,328 km
+CUNDLETOWN,3 hr, 37 min,322 km
+DIAMOND BEACH,3 hr, 33 min,309 km
+DUMARESQ ISLAND,3 hr, 34 min,318 km
+FAILFORD,3 hr, 34 min,318 km
+GHINNI GHINNI,3 hr, 38 min,324 km
+GLENTHORNE,3 hr, 38 min,312 km
+HALLIDAYS POINT,3 hr, 28 min,303 km
+HILLVILLE,3 hr, 28 min,328 km
+JONES ISLAND,3 hr, 39 min,328 km
+KIWARRAK,3 hr, 43 min,321 km
+KOORAINGHAT,3 hr, 28 min,307 km
+KUNDLE KUNDLE,3 hr, 43 min,328 km
+LANSDOWNE,3 hr, 43 min,328 km
+LANSDOWNE FOREST,3 hr, 52 min,342 km
+MANNING POINT,3 hr, 52 min,338 km
+MELINGA,3 hr, 52 min,338 km
+MITCHELLS ISLAND,3 hr, 52 min,336 km
+MONDROOK,3 hr, 52 min,323 km
+OLD BAR,3 hr, 39 min,323 km
+OXLEY ISLAND,3 hr, 43 min,327 km
+PAMPOOLAH,3 hr, 43 min,315 km
+POSSUM BRUSH,3 hr, 28 min,302 km
+PURFLEET,3 hr, 31 min,313 km
+RAINBOW FLAT,3 hr, 28 min,308 km
+RED HEAD,3 hr, 33 min,309 km
+SALTWATER,3 hr, 46 min,319 km
+TALLWOODS VILLAGE,3 hr, 29 min,305 km
+TAREE,3 hr, 29 min,305 km
+TAREE SOUTH,3 hr, 32 min,314 km
+TINONEE,3 hr, 37 min,319 km
+UPPER LANSDOWNE,3 hr, 58 min,346 km
+WALLABI POINT,3 hr, 40 min,325 km
+ARAKOON,5 hr, 4 min,462 km
+JERSEYVILLE,5 hr, 4 min,462 km
+SOUTH WEST ROCKS,5 hr, 1 min,459 km
+BATAR CREEK,4 hr, 9 min,368 km
+BLACK CREEK,4 hr, 12 min,371 km
+KENDALL,4 hr, 1 min,361 km
+KEREWONG,4 hr, 1 min,361 km
+KEW,3 hr, 58 min,359 km
+LOGANS CROSSING,3 hr, 58 min,359 km
+LORNE,4 hr, 6 min,355 km
+ROSSGLEN,3 hr, 57 min,356 km
+SWANS CROSSING,4 hr, 37 min,375 km
+UPSALLS CREEK,4 hr, 6 min,367 km
+ALDAVILLA,4 hr, 50 min,435 km
+AUSTRAL EDEN,4 hr, 50 min,435 km
+BELLBROOK,5 hr, 23 min,478 km
+BELLIMBOPINNI,4 hr, 43 min,438 km
+BELMORE RIVER,4 hr, 54 min,442 km
+BURNT BRIDGE,4 hr, 38 min,426 km
+CARRAI,7 hr, 10 min,535 km
+CLYBUCCA,4 hr, 48 min,445 km
+COLLOMBATTI,4 hr, 48 min,445 km
+COMARA,5 hr, 46 min,497 km
+CORANGULA,4 hr, 59 min,448 km
+CRESCENT HEAD,4 hr, 50 min,442 km
+DEEP CREEK,4 hr, 57 min,446 km
+DONDINGALONG,4 hr, 45 min,435 km
+EAST KEMPSEY,4 hr, 39 min,426 km
+EUROKA,4 hr, 39 min,429 km
+FREDERICKTON,4 hr, 42 min,435 km
+GLADSTONE,4 hr, 49 min,444 km
+GREENHILL,4 hr, 46 min,432 km
+HAMPDEN HALL,4 hr, 46 min,432 km
+HAT HEAD,5 hr, 2 min,460 km
+HICKEYS CREEK,5 hr, 2 min,460 km
+KEMPSEY,4 hr, 39 min,426 km
+KINCHELA,4 hr, 39 min,426 km
+LOWER CREEK,7 hr, 31 min,569 km
+MILLBANK,7 hr, 31 min,569 km
+MOONEBA,7 hr, 31 min,569 km
+MOPARRABAH,5 hr, 28 min,472 km
+MUNGAY CREEK,5 hr, 28 min,472 km
+OLD STATION,4 hr, 50 min,439 km
+POLA CREEK,4 hr, 43 min,431 km
+RAINBOW REACH,4 hr, 43 min,431 km
+SEVEN OAKS,4 hr, 44 min,440 km
+SHERWOOD,4 hr, 44 min,440 km
+SKILLION FLAT,4 hr, 54 min,441 km
+SMITHTOWN,4 hr, 47 min,443 km
+SOUTH KEMPSEY,4 hr, 47 min,443 km
+SUMMER ISLAND,4 hr, 50 min,445 km
+TEMAGOG,5 hr, 6 min,454 km
+TOOROOKA,5 hr, 6 min,470 km
+TURNERS FLAT,4 hr, 58 min,447 km
+VERGES CREEK,4 hr, 58 min,432 km
+WEST KEMPSEY,4 hr, 45 min,432 km
+WILLAWARRIN,5 hr, 5 min,456 km
+WILLI WILLI,5 hr, 5 min,475 km
+WITTITRIN,5 hr, 32 min,475 km
+YARRAVEL,4 hr, 48 min,433 km
+YESSABAH,4 hr, 55 min,446 km
+ALLGOMERA,,,
+BALLENGARRA,4 hr, 29 min,406 km
+BARRAGANYATTI,4 hr, 29 min,461 km
+BRIL BRIL,4 hr, 56 min,461 km
+COOPERABUNG,4 hr, 55 min,414 km
+EUNGAI CREEK,4 hr, 55 min,414 km
+EUNGAI RAIL,4 hr, 55 min,459 km
+FISHERMANS REACH,4 hr, 55 min,459 km
+GRASSY HEAD,5 hr, 8 min,473 km
+GUM SCRUB,5 hr, 8 min,473 km
+HACKS FERRY,4 hr, 44 min,417 km
+KIPPARA,4 hr, 44 min,417 km
+KUNDABUNG,4 hr, 28 min,412 km
+ROLLANDS PLAINS,4 hr, 28 min,412 km
+STUARTS POINT,4 hr, 38 min,416 km
+TAMBAN,4 hr, 38 min,471 km
+TELEGRAPH POINT,5 hr, 10 min,398 km
+UPPER ROLLANDS PLAINS,4 hr, 21 min,423 km
+YARRAHAPINNI,4 hr, 44 min,465 km
+BOBS CREEK,,,
+CAMDEN HEAD,4 hr, 6 min,370 km
