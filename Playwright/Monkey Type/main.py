@@ -27,7 +27,7 @@ async def run(playwright: Playwright):
             break
 
         words = await page.locator(".word:not(.typed)").all_inner_texts()
-        
+
         text = " ".join(words) + " "
         await page.keyboard.type(text)
 

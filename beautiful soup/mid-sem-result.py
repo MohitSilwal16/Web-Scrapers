@@ -13,8 +13,7 @@ res = requests.get(url)
 print("Data Fetched Successfully ...")
 
 soup = BeautifulSoup(res.content, "html.parser")
-innerHTML = soup.select_one(
-    selector='#\\31 463439233 > div > table').decode_contents()
+innerHTML = soup.select_one(selector="#\\31 463439233 > div > table").decode_contents()
 
 rows = innerHTML.split("</tr>")
 lenRows = len(rows)
@@ -43,25 +42,35 @@ for i in range(lenRows):
 
     try:
         num = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(3)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(3)"
+        ).decode_contents()
         branch = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(4)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(4)"
+        ).decode_contents()
         en_num = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(5)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(5)"
+        ).decode_contents()
         name = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(6)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(6)"
+        ).decode_contents()
         sub1 = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(7)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(7)"
+        ).decode_contents()
         sub2 = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(8)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(8)"
+        ).decode_contents()
         sub3 = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(9)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(9)"
+        ).decode_contents()
         sub4 = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(10)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(10)"
+        ).decode_contents()
         sub5 = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(11)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(11)"
+        ).decode_contents()
         sub6 = soup.select_one(
-            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(12)").decode_contents()
+            selector=f"#\\31 463439233 > div > table > tbody > tr:nth-child({i}) > td:nth-child(12)"
+        ).decode_contents()
 
         sub1 = html.unescape(sub1)
         sub2 = html.unescape(sub2)
