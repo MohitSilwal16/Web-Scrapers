@@ -21,19 +21,14 @@ async def run(playwright: Playwright):
     print("Started Typing ...")
     while True:
         try:
-            await page.wait_for_selector(".word:not(.typed)", timeout=2 * 1000) # 2 Sec
+            await page.wait_for_selector(".word:not(.typed)", timeout=2 * 1000)  # 2 Sec
         except:
             print("Time Over ...")
             break
 
         words = await page.locator(".word:not(.typed)").all_inner_texts()
-        text = ""
-        for word in words:
-            text += word + " "
-            # text = f"{text} {word} " # Slow
-
-        # text = " ".join(words) + " " # Slow
-
+        
+        text = " ".join(words) + " "
         await page.keyboard.type(text)
 
     input("Press Enter to Exit ...")
